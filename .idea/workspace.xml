@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9c0d7ae-4e23-471d-a0d1-22b5039abfd9" name="Changes" comment="" />
+    <list default="true" id="d9c0d7ae-4e23-471d-a0d1-22b5039abfd9" name="Changes" comment="rps game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +21,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -35,6 +36,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727979512970</updated>
     </task>
+    <task id="LOCAL-00001" summary="rps game">
+      <option name="closed" value="true" />
+      <created>1727979788491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727979788491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rps game" />
+    <option name="LAST_COMMIT_MESSAGE" value="rps game" />
   </component>
 </project>
